@@ -1,0 +1,16 @@
+x="python programming"
+print("positive indexing:")
+print(x[0],end=" ")
+print(x[1],end=" ")
+print(x[2],end=" ")
+print(x[3],end=" ")
+print(x[4],end=" ")
+print(x[5])
+print()
+
+print("Negative indexing:")
+print(x[-1],end=" ")
+print(x[-2],end=" ")
+print(x[-3],end=" ")
+print(x[-4],end=" ")
+print(x[-5],end=" ")

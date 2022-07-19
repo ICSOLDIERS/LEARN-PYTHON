@@ -1,0 +1,5 @@
+str=input("enter the string: ")
+char=input("enter the charecter you that you want to change:")
+symbol=input("enter the symbol you want to replace with:")
+changed_str=str.replace(char,symbol)
+print("modified string is :",changed_str)
