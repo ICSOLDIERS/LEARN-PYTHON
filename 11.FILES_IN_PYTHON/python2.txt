@@ -1,0 +1,13 @@
+ this is the first line
+this is the second line
+this is the thirs linered
+blue
+green
+yellow
+pink
+pink
+pink
+pinkgrey
+voilet
+navyblue
+pink

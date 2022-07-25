@@ -1,0 +1,18 @@
+print("enter 'x' for exit")
+filename=input("enter the filename to create and write :")
+if filename=="x":
+    exit()
+else:
+    w=open(filename,"w")
+    print("the file",filename,"opened successfully!")
+    print("enter three sentence to write:")
+    s1=input("first sentence:")
+    s2=input("second sentence:")
+    s3=input("third sentence:")
+    w.write(s1)
+    w.write('\n')
+    w.write(s2)
+    w.write('\n')
+    w.write(s3)
+    w.close()
+    print("content written successfully!")

@@ -1,0 +1,8 @@
+myfile=open("python.txt","r")
+print(myfile.readline())
+print(myfile.readline())
+print(myfile.readline())
+print(myfile.readline())
+print(myfile.readline())
+print(myfile.readline())
+print(myfile.readline())
